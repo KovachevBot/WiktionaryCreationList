@@ -1,0 +1,8 @@
+**/__pycache__
+**/apicache-py3
+help-templates
+output/*.wt
+pywikibot.lwp
+throttle.ctrl
+ignore.txt
+run.sh
